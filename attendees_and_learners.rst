@@ -361,5 +361,7 @@ I followed the tutorial online
 * Ana
 * Dade Murphy
 * Leticia Ulloa
-* La Chilindrina
+* La Chilindrina 
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
+  Reinier Salazar reiniersalazar11@gmail.com https://github.com/rxlxrxsx
+  
